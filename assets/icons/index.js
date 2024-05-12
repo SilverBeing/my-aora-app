@@ -1,4 +1,4 @@
-import upload from "../assets/icons/upload.png";
+import upload from "./upload.png";
 
 export default {
   upload,
